@@ -4,16 +4,16 @@ A Web Integrated and Console based web search engine developed in Java.
 
 The main features incorporated -
 
-1.)Web Crawler
-2.)Database Integration for Latency Optimization. (Postgres SQL)
-3.)HTML to Text Conversion using JSoup.
-4.)Pattern Matching using TST.
-5.)Page Ranking based on frequency of words.
+1.)Web Crawler. <br/>
+2.)Database Integration for Latency Optimization. (Postgres SQL) <br/>
+3.)HTML to Text Conversion using JSoup. <br/>
+4.)Pattern Matching using TST. <br/>
+5.)Page Ranking based on frequency of words. <br/>
 
-Advanced Java Concepts used : JSP, Servlet and JDBC
-Server Used: Apache Tomcat Version 8.0
-Dynamic Web Module Version 3.1
-Eclipse Enterprise Edition.
+Advanced Java Concepts used : JSP, Servlet and JDBC <br/>
+Server Used: Apache Tomcat Version 8.0 <br/>
+Dynamic Web Module Version 3.1 <br/>
+Eclipse Enterprise Edition. <br/>
 
 Youtube link for project presentation : https://youtu.be/fy5-qmJoY8s
 
