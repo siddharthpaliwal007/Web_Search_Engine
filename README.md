@@ -19,4 +19,4 @@ Youtube link for project presentation : https://youtu.be/fy5-qmJoY8s
 
 ![web search](https://user-images.githubusercontent.com/25987777/114093164-692f5680-98d8-11eb-8be4-0e1fa7d26b91.png)
 
-## WEB INTEGRATED VIEW
+## Web Integrated View
