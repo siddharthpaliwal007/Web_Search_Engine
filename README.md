@@ -5,7 +5,7 @@ A Web Integrated and Console based web search engine developed in Java.
 The main features incorporated -
 
 1.)Web Crawler
-2.)Database Integration for Latency Optimization.
+2.)Database Integration for Latency Optimization. (Postgres SQL)
 3.)HTML to Text Conversion using JSoup.
 4.)Pattern Matching using TST.
 5.)Page Ranking based on frequency of words.
@@ -20,3 +20,5 @@ Youtube link for project presentation : https://youtu.be/fy5-qmJoY8s
 ![web search](https://user-images.githubusercontent.com/25987777/114093164-692f5680-98d8-11eb-8be4-0e1fa7d26b91.png)
 
 ## Web Integrated View
+
+
